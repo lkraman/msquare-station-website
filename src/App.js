@@ -1,25 +1,32 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Navigation from './components/Navigation';
+import MainCarousel from './components/MainCarousel';
+import SocialMediaJumbotron from './components/SocialMediaJumbotron';
+import Services from './components/Services';
+import TwoColumnSection from './components/TwoColumnSection';
+import FixedBackground from './components/FixedBackground';
+import ContactJumbotron from './components/ContactJumbotron';
+import TwoColumnMap from './components/TwoColumnMap';
+import EmailJumbotron from './components/EmailJumbotron';
+import FooterComponent from './components/FooterComponent';
+import Socket from './components/Socket';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navigation />
+      <MainCarousel />
+      <SocialMediaJumbotron />
+      <Services />
+      <TwoColumnSection />
+      <FixedBackground />
+      <ContactJumbotron />
+
+      <TwoColumnMap />
+      <EmailJumbotron />
+      <FooterComponent />
+      <Socket />
+    </>
   );
 }
 
