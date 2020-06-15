@@ -26,7 +26,7 @@ function SocialMediaJumbotron() {
                 </li>
                 <li>
                   <a
-                    href="m.olivares@msquarestation.com"
+                    href="mailto:+m.olivares@msquarestation.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

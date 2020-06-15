@@ -38,7 +38,7 @@ function FooterComponent() {
             <hr class="bg-light" />
 
             <p>Monday-Sunday:</p>
-            <p>6am - 9pm</p>
+            <p>6:30am - 8pm</p>
           </div>
 
           <div class="col-md-4">

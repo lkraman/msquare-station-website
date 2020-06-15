@@ -53,7 +53,7 @@ function Services() {
             </p>
             <Button variant="outline-danger" size="md">
               <a href="/" className="button-link">
-                Coming Soon
+                Find Us
               </a>
             </Button>
           </Col>

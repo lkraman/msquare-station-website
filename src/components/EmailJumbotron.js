@@ -10,8 +10,7 @@ function EmailJumbotron() {
           </div>
 
           <div class="col-md-5 col-lg-4 col-xl-3 pt-4 pt-md-0">
-            <a
-              href="m.olivares@msquarestation.com"
+            <a href="mailto:+m.olivares@msquarestation.com"
               target="_blank"
               rel="noopener noreferrer"
               class="btn btn-danger btn-lg"
