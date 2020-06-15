@@ -5,7 +5,7 @@ function Socket() {
     <div class="socket text-light text-center py-4">
       <p>
         &copy;
-        <a href="https://addwebsitehere" target_blank>
+        <a href="https://www.msquarestation.com" target_blank>
           msquarestation.com
         </a>
       </p>

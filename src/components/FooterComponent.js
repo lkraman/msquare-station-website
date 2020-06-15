@@ -24,7 +24,9 @@ function FooterComponent() {
               <a href="tel:+16102680768">(610) 268-0768</a>
             </p>
             <p>
-              <a href="mailto:+fakeemail@email.com">Fakeemail@email.com</a>
+              <a href="mailto:+m.olivares@msquarestation.com">
+                m.olivares@msquarestation.com
+              </a>
             </p>
             <p>86 Pennsylvania Ave</p>
             <p>Avondale, Pa 19311</p>

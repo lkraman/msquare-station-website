@@ -1,5 +1,5 @@
 import React from 'react';
-import Map from './Map';
+
 // import propanegrillandtankwithwords from '../img/propanegrillandtankwithwords.png';
 // import { Button, Container, Col, Row } from 'react-bootstrap';
 
