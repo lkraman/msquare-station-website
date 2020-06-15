@@ -11,15 +11,16 @@ body {
 /*============= NAVIGATION =============*/
 
 .navbar-brand img {
-  height: 4rem;
-  margin-left: 2.5rem;
+  height: 4.5rem;
+  margin-left: 4.9rem;
 }
 
 .navbar {
   background: linear-gradient(to right, #f2f2f2, #fbfbfb);
-  font-size: 1.1rem;
-  text-transform: upercase;
+  font-size: 1.8rem;
+  text-transform: uppercase;
   letter-spacing: 0.1rem;
+
   box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.2);
 }
 
@@ -33,6 +34,7 @@ body {
 
 .nav-link {
   color: black !important;
+  margin: 0 1rem;
 }
 
 .nav-link.active,
@@ -177,7 +179,7 @@ a.button-link:hover {
   margin-bottom: 2px;
 }
 .fixed {
-  background-image: url('../img/businessgrill.jpg');
+  background-image: url('../img/sticky-image.jpg');
   position: fixed;
 }
 
@@ -276,6 +278,7 @@ footer a:hover,
   }
   .navbar-brand img {
     height: 2.3rem;
+    margin-left: 2rem;
   }
 
   .navbar {

@@ -2,7 +2,7 @@ import React from 'react';
 import propanegrillandtankwithwords from '../img/propanegrillandtankwithwords.png';
 import { Button, Container, Col, Row } from 'react-bootstrap';
 
-// import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+
 function TwoColumnSection() {
   return (
     <>
