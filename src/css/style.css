@@ -11,13 +11,13 @@ body {
 /*============= NAVIGATION =============*/
 
 .navbar-brand img {
-  height: 4.5rem;
+  height: 3.5rem;
   margin-left: 4.9rem;
 }
 
 .navbar {
   background: linear-gradient(to right, #f2f2f2, #fbfbfb);
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
 
@@ -243,6 +243,7 @@ footer a:hover,
   }
   .navbar-brand img {
     height: 2.5rem;
+  margin-left: 2.5rem;
   }
 
   .navbar {
@@ -277,8 +278,9 @@ footer a:hover,
     transform: scale(0);
   }
   .navbar-brand img {
+ 
     height: 2.3rem;
-    margin-left: 2rem;
+  margin-right: 3rem
   }
 
   .navbar {
